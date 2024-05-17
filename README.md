@@ -120,8 +120,8 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 ### Autor
 
 - **Seu Nome**
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- GitHub: [Seu GitHub](https://github.com/seu-usuario)
+- LinkedIn: [Seu LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jo%C3%A3o-paulo-zurlo-b4b574184/))
+- GitHub: [Seu GitHub]([https://github.com/JoaoZurlo)
 
 ---
 
